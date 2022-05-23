@@ -60,7 +60,7 @@ app.get("/", (req, res) => {
 On voit donc que si nous mettons dans notre Requête des cookie **"user"** qui ont pour valeur **"admin"**.
 Alors nous recevons le flag pour valider le challenge.
 
-![Pour mettre les cookies](https://i.ibb.co/LppfDHq/chall.png)Nous n'avons plus qu'à actualiser et nous aurons le flag.
+![](https://i.ibb.co/LppfDHq/chall.png)Nous n'avons plus qu'à actualiser et nous aurons le flag.
 
     actf{passwordless_authentication_is_the_new_hip_thing}
 
